@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.border_black{
+  border: 1px solid black;
+}
+form{
+  width: 40%;
+}
+form div label{
+  width: 30%;
+}
+form div select{
+  width: 70%;
+}
+form div input{
+  width: 70%;
+}
+.search_box{
+  width: 25%;
+}
+.search_box select{
+  width: 100%;
+}
+.search_box input{
+  width: 100%;
+}
+.search_box button{
+  text-align: center;
+}
